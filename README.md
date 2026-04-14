@@ -19,3 +19,9 @@ I have transformed the processed data in Silver to fit a star schema model, crea
 Additionally, I have been responsible for ensuring data consistency, avoiding duplicates through idempotent loads, and controlling referential integrity between dimensions and facts.
 
 In summary, my work has focused on the final phase of the ETL, turning clean data into a dimensional model ready for analysis and use.
+
+Despite all the evidence provided of the work done, I do not understand how the conclusion was reached that I have not contributed to the project. It is true that I went through a difficult two-week period, which is verifiable, but stating a lack of involvement or work is not accurate and is highly debatable given the evidence of my contributions to the project.
+
+Sincerely,
+
+Albora Izquierdo Hernández
