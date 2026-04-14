@@ -8,3 +8,14 @@ It can be seen in the SHOW PROCESSLIST that all users connect from the computer 
 
 <img width="1920" height="1020" alt="{882EC010-05B3-42A7-BC15-861C691491F6}" src="https://github.com/user-attachments/assets/a1640940-8d41-4c78-9988-7cc4d4e84f98" />
 The root user is the main account used for administering the MySQL system. From this account, all additional users have been created, including a personal user, as well as the assignment of their corresponding privileges. Therefore, the creation and management of these users have been carried out entirely from my administration session.
+
+
+<img width="1920" height="1020" alt="{E53B938F-364B-4008-AA71-6B49CAB9AB03}" src="https://github.com/user-attachments/assets/c9c02b35-4e8d-475b-a8dc-26075fc9b708" />
+
+I have been responsible for the data transformation part from the Silver layer to the Gold layer of the ETL pipeline. Specifically, I have worked on the final cleaning and structuring of the data for its analytical model.
+
+I have transformed the processed data in Silver to fit a star schema model, creating and injecting the information into the dimension tables (dim*) and the fact table (fact_sensor_readings). This includes loading entities such as buildings, rooms, sensors, devices, and users, as well as integrating sensor readings into the fact table with their corresponding foreign keys.
+
+Additionally, I have been responsible for ensuring data consistency, avoiding duplicates through idempotent loads, and controlling referential integrity between dimensions and facts.
+
+In summary, my work has focused on the final phase of the ETL, turning clean data into a dimensional model ready for analysis and use.
