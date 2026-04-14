@@ -1,2 +1,2 @@
-# EVIDENCIAS-TRABAJO-DATACYCLED
-Este repositorio contendrá todas y cada una de las evidencias de mi trabajo realizado en este proyecto
+# EVIDENCES-WORK-DATACYCLED
+This repository will contain each and every piece of evidence of my work carried out in this project
